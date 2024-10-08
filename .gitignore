@@ -1,0 +1,9 @@
+# Ignore directories containing datasets
+/dataset/jpeg_images/
+/dataset/jpeg_masks/
+/dataset/png_images/
+/dataset/val_dataset/
+
+# Ignore all JPEG and PNG files
+*.jpeg
+*.png
