@@ -4,6 +4,9 @@
 /dataset/png_images/
 /dataset/val_dataset/
 
+# Ignore specific large files
+/dataset/people-clothing-segmentation.zip
+
 # Ignore all JPEG and PNG files
 *.jpeg
 *.png
