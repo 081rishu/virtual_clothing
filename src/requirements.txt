@@ -1,5 +1,7 @@
 albumentations==1.4.17
+diffusers==0.16.0
 evaluate==0.4.3
+fiftyone==0.25.2
 ipykernel==6.29.5
 jupyter==1.1.1
 matplotlib==3.7.5
@@ -8,4 +10,8 @@ pandas==2.0.3
 protobuf==3.20.3
 PyGithub==1.56
 tensorflow==2.7.0
-transformers==4.21.0
+transformers==4.25.0
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
+xformers==0.0.28.post1
