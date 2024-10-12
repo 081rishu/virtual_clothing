@@ -10,3 +10,7 @@
 # Ignore all JPEG and PNG files
 *.jpeg
 *.png
+
+
+#Ignore saved_weights of model for now
+/model/segformer_weights.h5
