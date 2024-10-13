@@ -13,4 +13,4 @@
 
 
 #Ignore saved_weights of model for now
-/model/segformer_weights.h5
+/model/
